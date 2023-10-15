@@ -1,0 +1,8 @@
+Admin _ admin
+Pass _ 123456
+
+Placement _ tushar@gmail.com
+Pass _ 123456
+
+Student _ tushii@gmail.com
+Pass _ 123456
